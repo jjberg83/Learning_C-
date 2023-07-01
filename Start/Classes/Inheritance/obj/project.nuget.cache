@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FP06TGU9Cr+uWUJIjsoPo1Z/lkg+BfG6AzzwfZvN6mAKQ2RD/mV6kCAoUYr0n9haJSoLNo8MSdH70U+1GM76qQ==",
+  "success": true,
+  "projectFilePath": "/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/Inheritance.csproj",
+  "expectedPackageFiles": [
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

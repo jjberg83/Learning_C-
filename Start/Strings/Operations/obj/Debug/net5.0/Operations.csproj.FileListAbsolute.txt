@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/bin/Debug/net5.0/Operations
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/bin/Debug/net5.0/Operations.deps.json
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/bin/Debug/net5.0/Operations.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/bin/Debug/net5.0/Operations.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/bin/Debug/net5.0/Operations.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/bin/Debug/net5.0/Operations.pdb
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/refint/Operations.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.pdb
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/Operations.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Operations/obj/Debug/net5.0/ref/Operations.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5pb5/Eav6rMt+rMb68KKlpEpMXB2AG7COeJfs6Y/5Ikab3JYqZ2UG1q+hbQpJJ9lc8/wGf/b6CPf8sjgmRXotw==",
+  "success": true,
+  "projectFilePath": "/Users/jjberg/Desktop/Exercise Files/Finished/Overview/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

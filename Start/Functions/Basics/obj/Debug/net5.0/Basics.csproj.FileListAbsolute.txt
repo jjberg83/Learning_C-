@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/bin/Debug/net5.0/Basics
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/bin/Debug/net5.0/Basics.deps.json
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/bin/Debug/net5.0/Basics.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/bin/Debug/net5.0/Basics.dll
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/bin/Debug/net5.0/Basics.pdb
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.dll
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/refint/Basics.dll
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.pdb
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/Basics.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Functions/Basics/obj/Debug/net5.0/ref/Basics.dll

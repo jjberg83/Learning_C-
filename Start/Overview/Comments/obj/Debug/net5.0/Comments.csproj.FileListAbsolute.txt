@@ -1,0 +1,17 @@
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/Comments
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/Comments.deps.json
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/Comments.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/Comments.dll
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/Comments.pdb
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/bin/Debug/net5.0/JComments.xml
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.dll
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/refint/Comments.dll
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.pdb
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/Comments.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Overview/Comments/obj/Debug/net5.0/ref/Comments.dll

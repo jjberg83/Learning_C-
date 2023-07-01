@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.deps.json
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.dll
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.pdb
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.dll
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/refint/WhileLoops.dll
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.pdb
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/ref/WhileLoops.dll

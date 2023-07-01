@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.deps.json
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.dll
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.pdb
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.dll
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/refint/RefAndOut.dll
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.pdb
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/ref/RefAndOut.dll

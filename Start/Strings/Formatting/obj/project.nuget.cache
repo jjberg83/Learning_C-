@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6cM0LZXoe8WGKtSIhdWKfIYQsx3gcC/m1k6kvAtaTSY5VNK/O2DPXk12zlDeWYinSABHTob9PkwELOc7QDaZlw==",
+  "success": true,
+  "projectFilePath": "/Users/jjberg/Desktop/C#/Start/Strings/Formatting/Formatting.csproj",
+  "expectedPackageFiles": [
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/jjberg/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

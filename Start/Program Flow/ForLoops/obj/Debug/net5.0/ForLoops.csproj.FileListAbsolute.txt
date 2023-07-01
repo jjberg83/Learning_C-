@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.deps.json
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.dll
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.pdb
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.dll
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/refint/ForLoops.dll
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.pdb
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ref/ForLoops.dll

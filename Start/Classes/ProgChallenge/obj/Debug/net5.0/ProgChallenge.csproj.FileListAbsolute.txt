@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.deps.json
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.dll
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.dll
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/refint/ProgChallenge.dll
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ref/ProgChallenge.dll

@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/bin/Debug/net5.0/Parsing
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.deps.json
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/bin/Debug/net5.0/Parsing.pdb
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/refint/Parsing.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.pdb
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/Parsing.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Parsing/obj/Debug/net5.0/ref/Parsing.dll

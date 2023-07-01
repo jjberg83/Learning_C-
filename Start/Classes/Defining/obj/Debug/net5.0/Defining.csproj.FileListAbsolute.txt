@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/bin/Debug/net5.0/Defining
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/bin/Debug/net5.0/Defining.deps.json
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/bin/Debug/net5.0/Defining.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/bin/Debug/net5.0/Defining.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/bin/Debug/net5.0/Defining.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/refint/Defining.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/Defining.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Defining/obj/Debug/net5.0/ref/Defining.dll

@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/bin/Debug/net5.0/Formatting
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.deps.json
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/bin/Debug/net5.0/Formatting.pdb
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/refint/Formatting.dll
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.pdb
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/Formatting.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Strings/Formatting/obj/Debug/net5.0/ref/Formatting.dll

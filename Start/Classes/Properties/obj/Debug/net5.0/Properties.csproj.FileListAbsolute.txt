@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/bin/Debug/net5.0/Properties
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/bin/Debug/net5.0/Properties.deps.json
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/bin/Debug/net5.0/Properties.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/bin/Debug/net5.0/Properties.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/bin/Debug/net5.0/Properties.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/bin/Debug/net5.0/Properties.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/refint/Properties.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/Properties.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Properties/obj/Debug/net5.0/ref/Properties.dll

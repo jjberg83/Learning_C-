@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/bin/Debug/net5.0/Params
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.deps.json
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.dll
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/bin/Debug/net5.0/Params.pdb
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.dll
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/refint/Params.dll
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.pdb
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/Params.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Functions/DefaultParams/obj/Debug/net5.0/ref/Params.dll

@@ -1,0 +1,16 @@
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/refint/Inheritance.dll
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
+/Users/jjberg/Desktop/C#/Start/Classes/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
