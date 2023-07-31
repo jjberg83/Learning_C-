@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jjberg/Desktop/C#/Start/Overview/Operators/Operators.csproj",
+      "projectUniqueName": "/Users/jjberg/Github/Learning_C-/Start/Overview/Operators/Operators.csproj",
       "projectName": "Operators",
-      "projectPath": "/Users/jjberg/Desktop/C#/Start/Overview/Operators/Operators.csproj",
+      "projectPath": "/Users/jjberg/Github/Learning_C-/Start/Overview/Operators/Operators.csproj",
       "packagesPath": "/Users/jjberg/.nuget/packages/",
-      "outputPath": "/Users/jjberg/Desktop/C#/Start/Overview/Operators/obj/",
+      "outputPath": "/Users/jjberg/Github/Learning_C-/Start/Overview/Operators/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jjberg/.nuget/NuGet/NuGet.Config"
@@ -26,7 +26,6 @@
         "net5.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -74,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

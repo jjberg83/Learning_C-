@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q2bkclY1K0wDku1IseIpAHk3560/nbuHsXl9fG/iih1c+s4vk8quml846VwFlXYHkbZ+vDPMumLNS9mLSOlmkQ==",
+  "dgSpecHash": "O/ZWP6ml6p/Bt988Ee1AB27TZPeMvrXsbIRd1MnT2esJjS5/uJ0+FB410CYSgOL4sj9hTx+09xeGNeQOyAzKpQ==",
   "success": true,
-  "projectFilePath": "/Users/jjberg/Desktop/C#/Start/Overview/Operators/Operators.csproj",
+  "projectFilePath": "/Users/jjberg/Github/Learning_C-/Start/Overview/Operators/Operators.csproj",
   "expectedPackageFiles": [
     "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
