@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GMSdlGuoDYB5xOlgc5VmycHbB6aKa4u9xE5RC3TDm/1AqJ7sgJQUrXCtpCDa2kdJ0dcBLCC2ShV7yUTNGcOGEA==",
+  "dgSpecHash": "9xZwiTF71eSx5V5g6SaqdSqaJWwsI2+BuhbrKnwII7iwNVUpcG2g6Ae0Cx18hQWYh15uGUXy1YcJbsWHt63pBw==",
   "success": true,
-  "projectFilePath": "/Users/jjberg/Desktop/C#/Start/Overview/VarsAndData/VarsAndData.csproj",
+  "projectFilePath": "/Users/jjberg/Github/Learning_C-/Start/Overview/VarsAndData/VarsAndData.csproj",
   "expectedPackageFiles": [
     "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",

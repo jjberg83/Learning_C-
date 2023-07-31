@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jjberg/Desktop/C#/Start/Overview/VarsAndData/VarsAndData.csproj": {}
+    "/Users/jjberg/Github/Learning_C-/Start/Overview/VarsAndData/VarsAndData.csproj": {}
   },
   "projects": {
-    "/Users/jjberg/Desktop/C#/Start/Overview/VarsAndData/VarsAndData.csproj": {
+    "/Users/jjberg/Github/Learning_C-/Start/Overview/VarsAndData/VarsAndData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jjberg/Desktop/C#/Start/Overview/VarsAndData/VarsAndData.csproj",
+        "projectUniqueName": "/Users/jjberg/Github/Learning_C-/Start/Overview/VarsAndData/VarsAndData.csproj",
         "projectName": "VarsAndData",
-        "projectPath": "/Users/jjberg/Desktop/C#/Start/Overview/VarsAndData/VarsAndData.csproj",
+        "projectPath": "/Users/jjberg/Github/Learning_C-/Start/Overview/VarsAndData/VarsAndData.csproj",
         "packagesPath": "/Users/jjberg/.nuget/packages/",
-        "outputPath": "/Users/jjberg/Desktop/C#/Start/Overview/VarsAndData/obj/",
+        "outputPath": "/Users/jjberg/Github/Learning_C-/Start/Overview/VarsAndData/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jjberg/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "net5.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }

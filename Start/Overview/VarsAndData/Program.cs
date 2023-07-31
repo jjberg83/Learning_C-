@@ -27,7 +27,11 @@ namespace VarsAndData
                 Console.WriteLine(u);
             }
 
-            
+            int[] valsJ = {27,25,23,21};
+            foreach(int u in valsJ) {
+                Console.WriteLine(u);
+            }
+
             string[] strs = {"En", "To", "Tre"};
 
             // TODO: Print the values using a Formatting String
