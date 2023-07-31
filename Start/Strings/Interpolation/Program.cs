@@ -10,8 +10,8 @@ namespace StringInterpolation
             string make = "Mercedes-Benz";
             string model = "G Class";
             int year = 2020;
-            float miles = 8_450.27f;
-            decimal price = 60_275.0m;
+            float miles = 8450.27f;
+            decimal price = 60275.0m;
 
             // TODO: Output information using formatting
             Console.WriteLine("This car is a {0} {1} {2}, with {3} miles and cost ${4}", 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r4wxjAvTVkuP9yNxXfcOg4CKN7PODVNZCx9gIbCmgN0iA/3LnHP6Z5Bet7swkNFIS6eTyCzRYEUsHV7KVS3EvQ==",
+  "dgSpecHash": "afT7fjnk1blNL12R9YsanqeK3sege4Zh5Chnpwu2qV52s5rybZaKCIpmUMNdcwTZILz5fdwmIEUsqEvvOt2jpg==",
   "success": true,
-  "projectFilePath": "/Users/jjberg/Desktop/C#/Start/Strings/Interpolation/Strings.csproj",
+  "projectFilePath": "/Users/jjberg/Github/Learning_C-/Start/Strings/Interpolation/Strings.csproj",
   "expectedPackageFiles": [
     "/Users/jjberg/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/Users/jjberg/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
